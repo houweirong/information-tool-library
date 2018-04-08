@@ -26,4 +26,18 @@ W3C中国：http://www.chinaw3c.org/
 demo:
 
 jq流行demo:https://www.jqueryscript.net/popular/
+
+ICON:
+
+https://www.iconfinder.com/
+
+教程：
+
+http://tympanus.net/codrops/category/tutorials/
+
+
+在线编辑器：
+
+
+http://codepen.io/Dreamdealer/pen/nAGrf hou6_6 
  
