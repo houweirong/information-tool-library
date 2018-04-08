@@ -15,13 +15,15 @@ css3：
 bootstrap: http://getbootstrap.com/
  
  
-文档：
+手册文档：
 
 开发者文档：https://developer.mozilla.org/zh-CN/
 
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 
 W3C中国：http://www.chinaw3c.org/
+
+GitHub秘籍：https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html
 
 demo:
 
