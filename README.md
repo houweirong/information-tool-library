@@ -33,6 +33,10 @@ ICON:
 
 https://www.iconfinder.com/
 
+资源：
+
+微信小程序：http://www.ctolib.com/categories/javascript-wechat-weapp.html 
+
 教程：
 
 http://tympanus.net/codrops/category/tutorials/
@@ -42,4 +46,5 @@ http://tympanus.net/codrops/category/tutorials/
 
 
 http://codepen.io/Dreamdealer/pen/nAGrf hou6_6 
- 
+
+https://jsfiddle.net/
