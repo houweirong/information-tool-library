@@ -13,6 +13,10 @@ css3：
  库：
  
 bootstrap: http://getbootstrap.com/
+
+移动端框架：
+
+http://idangero.us/swiper/ 
  
  
 手册文档：
