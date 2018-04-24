@@ -17,7 +17,12 @@ bootstrap: http://getbootstrap.com/
 移动端框架：
 
 http://idangero.us/swiper/ 
- 
+
+better-scroll :
+
+https://github.com/ustbhuangyi/better-scroll/blob/master/README_zh-CN.md
+
+ 中文手册：https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/
  
 手册文档：
 
