@@ -34,6 +34,10 @@ W3C中国：http://www.chinaw3c.org/
 
 GitHub秘籍：https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html
 
+社区：
+
+ SegmentFault：https://segmentfault.com/
+
 demo:
 
 jq流行demo:https://www.jqueryscript.net/popular/
