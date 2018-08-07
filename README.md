@@ -65,6 +65,12 @@ https://jsfiddle.net/
 http://runjs.cn/code/isubecky
 
 
+工具插件：
+
+
+Sublime Text：格式化插件HTML-CSS-JS Prettify：
+http://www.cnblogs.com/tinyphp/p/4756142.html 
+
 
 
 
