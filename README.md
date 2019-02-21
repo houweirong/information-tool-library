@@ -1,5 +1,6 @@
 # information-tool-library
 前端信息实用工具库
+http://www.cnblogs.com/PeunZhang/p/3407453.html 移动动web资源整理
 
 前端工具：
 
@@ -9,7 +10,7 @@ css3：
  
  CSS3动画工具：https://www.w3cways.com/css3-animation-tool
  
- 
+ http://yisibl.github.io/cubic-bezier/#.17,.67,.83,.67 贝塞尔曲线工具
  库：
  
 bootstrap: http://getbootstrap.com/
@@ -45,6 +46,7 @@ jq流行demo:https://www.jqueryscript.net/popular/
 ICON:
 
 https://www.iconfinder.com/
+ https://www.iconfont.cn  阿里巴巴矢量图标库
 
 资源：
 
