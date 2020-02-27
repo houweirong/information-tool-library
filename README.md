@@ -17,6 +17,8 @@ bootstrap: http://getbootstrap.com/
 
 http://css.cuishifeng.cn
 
+https://cloud.tencent.com/developer/devdocs 开发者手册
+
 移动端框架：
 
 http://idangero.us/swiper/ 
