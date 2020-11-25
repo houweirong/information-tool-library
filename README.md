@@ -8,6 +8,8 @@ http://www.cnblogs.com/PeunZhang/p/3407453.html 移动动web资源整理
 
 前端工具：
 
+https://regexr.com/ 正则测试工具
+
 css3手岫：http://css.cuishifeng.cn
 
  曲线图工具：http://cubic-bezier.com
