@@ -1,4 +1,10 @@
 # information-tool-library
+
+生活：
+http://www.gsxt.gov.cn/index.html 国家企业信用信息公示系统
+
+
+
 https://www.upwork.com/ 美国自由工作者接活平台
 
 AST Explorer：
